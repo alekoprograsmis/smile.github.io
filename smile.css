@@ -1,0 +1,194 @@
+.eye{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(243, 176, 176);
+    border: 2px solder red;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 4s;
+    
+     }
+.eye:hover{
+background-color: blue;
+}
+.eyeball{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: -120px;
+    margin-left: 90px;
+    transition: 3s;
+
+} 
+.eyeball:hover{
+    background-color:red
+} 
+
+
+
+
+
+.eye2{
+
+  width: 200px;
+    height: 200px;
+    background-color: rgb(241, 163, 163);
+    border: 2px solder red;
+    border-radius: 50%;
+    margin-left: 1000px;
+    margin-top: -180px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.eye2:hover{
+    background-color:red;
+}
+.eyeball2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+   margin-left: 1010px;
+   margin-top: -120px;
+   transition: 1s;
+}
+.eyeball2:hover{
+    background-color: aqua;
+  
+}
+.nose{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    border-radius: 50%;
+    border: 2px solid black;
+   margin-left: 550px;
+   margin-top: 75px;
+   cursor: pointer;
+   transition: 1s;
+
+}
+.nose:hover{
+    background-color: rgb(102, 58, 58);
+    width: 150px;
+    height: 150px;
+}
+.mouth{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -20px;
+    margin-left: 200px;
+    transition: 1s;
+}
+.mouth:hover{
+    background-color: chartreuse;
+}
+.mouth2{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -0px;
+    margin-left: 300px;
+    transition: 1s;
+}
+.mouth2:hover{
+    background-color: brown;
+}
+.mouth3{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -104px;
+    margin-left: 400px; 
+    transition: 1s;  
+}
+.mouth3:hover{background-color:darkgoldenrod
+
+}
+    .mouth4{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -104px;
+    margin-left: 500px;
+    transition:1s;
+}
+.mouth4:hover{
+    background-color:blueviolet
+}
+.mouth5{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -104px;
+    margin-left: 600px;
+    transition:1s;
+}
+.mouth5:hover{
+    background-color:aqua;
+}
+.mouth6{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -104px;
+    margin-left: 700px;
+    transition:1s;
+}
+.mouth6:hover{
+    background-color:crimson;
+}
+.mouth7{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -104px;
+    margin-left: 800px; 
+    transition:1s;
+}
+.mouth7:hover{
+    background-color:orangered
+}
+.mouth8{
+    height:100px;
+    width: 100px;
+    background-color: azure;
+    border: 2px solid red;
+    margin-top: -204px;
+    margin-left: 900px; 
+    transition:1s;
+}
+.mouth8:hover{
+    background-color:aquamarine;
+}
+body{
+    background:linear-gradient(
+        to right,
+        yellow,
+        blue
+    )
+
+}
+button{
+    width: 100px;
+    height: 100px;
+    border: 2px  solid black;
+    border-radius: 50%;
+    background-color:orangered;
+    transition: 1s;
+}
+button:hover{
+    background-color:rgb(0, 255, 191);
+    width:150px ;
+    height: 150px;
+}
